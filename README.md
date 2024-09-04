@@ -7,9 +7,8 @@
 ## 🚀 About Me
 
 - I'm currently pursuing a degree in **Computer Science** at the University of Toronto.
-- Passionate about solving complex problems and creating innovative solutions.
-- I enjoy teaching and have experience as a **Teaching Assistant** where I've simplified challenging concepts for students since my second year.
 - I’m fascinated by the intersection of technology and creativity. I love working on projects that push the boundaries of both.
+- I enjoy teaching and have experience as a **Teaching Assistant** where I've simplified challenging concepts for students since my second year.
 
 ## 🛠️ Skills
 
@@ -17,11 +16,11 @@
 - **Frameworks & Libraries**: Express, React, Node.js, JUnit
 - **Databases**: PostgreSQL, MongoDB, Neo4j, FireBase
 - **Tools**: Git, Jira, Docker, Figma, Google Cloud Platform, Microsoft Office, VSCode, Eclipse
-- **Areas of Expertise**: Software Engineering, Database Management, AI/ML
+- **Areas of Expertise**: Software Engineering, Web Development, AI/ML
 
 ## 🌱 Currently Learning
 
-- Advanced topics in **Software Engineering** and **Database Optimization**.
+- Advanced topics in **Software Engineering** and **Web Development**.
 - Exploring more about **AI/ML** and how to integrate it into practical projects.
 
 ## 🎨 Fun Facts
@@ -32,8 +31,8 @@
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/katherine-pravdin)
-- [Email](mailto:katherinepravdin@example.com)
+- [LinkedIn](https://www.linkedin.com/in/katherinepravdin)
+- [Email](mailto:katherine.pravdin@mail.utoronto.ca)
 - [Portfolio](https://katherinepravdin.com) (Coming Soon!)
 
 ---
