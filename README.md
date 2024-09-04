@@ -12,7 +12,7 @@
 
 ## 🛠️ Skills
 
-- **Languages**: PPython, Java, C/C++, SQL, JavaScript, HTML, CSS, MIPS Assembly, Bash
+- **Languages**: Python, Java, C/C++, SQL, JavaScript, HTML, CSS, MIPS Assembly, Bash
 - **Frameworks & Libraries**: Express, React, Node.js, JUnit
 - **Databases**: PostgreSQL, MongoDB, Neo4j, FireBase
 - **Tools**: Git, Jira, Docker, Figma, Google Cloud Platform, Microsoft Office, VSCode, Eclipse
@@ -32,8 +32,6 @@
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/katherinepravdin)
-- [Email](mailto:katherine.pravdin@mail.utoronto.ca)
-- [Portfolio](https://katherinepravdin.com) (Coming Soon!)
 
 ---
 
