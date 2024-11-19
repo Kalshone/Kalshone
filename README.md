@@ -13,10 +13,10 @@
 ## 🛠️ Skills
 
 - **Languages**: Python, Java, C/C++, SQL, JavaScript, HTML, CSS, MIPS Assembly, Bash
-- **Frameworks & Libraries**: Express, React, Node.js, JUnit
+- **Frameworks & Libraries**: Express, React, Node.js, Django, JUnit
 - **Databases**: PostgreSQL, MongoDB, Neo4j, FireBase
 - **Tools**: Git, Jira, Docker, Figma, Google Cloud Platform, Microsoft Office, VSCode, Eclipse
-- **Areas of Expertise**: Software Engineering, Web Development, AI/ML
+- **Areas of Expertise**: Full-Stack, Web Development
 
 ## 🌱 Currently Learning
 
