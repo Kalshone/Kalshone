@@ -26,7 +26,6 @@
 ## 🎨 Fun Facts
 
 - I enjoy **rock climbing** and **sketch** in my free time.
-- I love talking for hours, especially under the stars. 🌌
 - I like cats but don’t have one… yet. 🐱
 
 ## 🔗 Connect with Me
@@ -35,4 +34,4 @@
 
 ---
 
-⭐️ **Feel free to explore my repositories and reach out if you want to collaborate on something exciting!**
+⭐️ **Feel free to explore my repositories and reach out if you want to collaborate!**
